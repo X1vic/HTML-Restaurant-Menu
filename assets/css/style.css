@@ -18,9 +18,15 @@ li {
 }
 
 img {
-    width: 100%;
+    width: 30%;
     height: auto;
-    max-width: 100%;
+    max-width: 30%;
+}
+
+#food {
+    width: 15%;
+    height: auto;
+    max-width: 15%;
 }
 
 main {
@@ -28,7 +34,7 @@ main {
 }
 
 nav {
-    background-color: beige;
+    background-color: rgb(162, 236, 162);
     padding: 10px;
 }
 
@@ -59,7 +65,7 @@ nav a:hover {
 }
 
 #banner img {
-    width: 60%;
+    width: 100%;
     height: auto;
 }
 
